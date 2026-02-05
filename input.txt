@@ -1,0 +1,7 @@
+1 placticity 100
+3 density -25.5
+2  bubu
+baba bobu biba
+17 conductivity 17.5
+21 malleability 13.3
+blabla
