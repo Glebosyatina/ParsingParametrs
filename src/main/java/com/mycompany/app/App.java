@@ -49,6 +49,7 @@ public class App {
 			FileOutputStream outStream = new FileOutputStream("otchet.txt");
 			outStream.write(otchet.getBytes());
 			outStream.close();
+			System.out.println("Отчет записан в otchet.txt");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
